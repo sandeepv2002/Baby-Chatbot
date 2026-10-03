@@ -1,7 +1,7 @@
 # Baby Chatbot - Advanced AI Assistant
 
 ## Project Overview
-Baby Chatbot is an advanced, multilingual AI assistant designed by Abhi. It leverages cutting-edge features including Emotional Intelligence, Contextual Memory, and dynamic Multilingual Support to provide a seamless and highly interactive user experience. Designed with a stunning, modern glassmorphism UI, this application ensures intuitive engagement whether you need task automation, learning assistance, or just a fun conversation.
+Baby Chatbot is an advanced, multilingual AI assistant designed by Sandeep. It leverages cutting-edge features including Emotional Intelligence, Contextual Memory, and dynamic Multilingual Support to provide a seamless and highly interactive user experience. Designed with a stunning, modern glassmorphism UI, this application ensures intuitive engagement whether you need task automation, learning assistance, or just a fun conversation.
 
 ### Key Features
 - 🧠 **Emotional Intelligence**: Understands and responds to user sentiment dynamically.
